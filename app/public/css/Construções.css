@@ -1,0 +1,190 @@
+@media (max-width: 480px) {
+
+    #body {
+        background-color: #D9D9D9;
+        font-family: 'aleo';
+    }
+
+
+    a {
+        color: inherit;
+    }
+
+
+    .cabeçalho {
+        background-color: #069E6E;
+        width: 104%;
+        height: 113px;
+        top: -8px;
+        left: -8px;
+        position: absolute;
+    }
+
+    .logo {
+        position: relative;
+        height: 100%;
+        left: 36%;
+        top: 8%;
+    }
+
+    .fundo {
+        background-color: #f2f2f2;
+        height: 248px;
+        width: 89%;
+        position: absolute;
+        left: 6%;
+        top: 18%;
+        border-radius: 16px;
+    }
+
+    .fundo2 {
+        background-color: #f2f2f2;
+        height: 192px;
+        width: 89%;
+        position: absolute;
+        left: 6%;
+        top: 49%;
+        border-radius: 16px;
+    }
+
+
+    .carousel {
+        display: flex;
+        position: absolute;
+        top: 16%;
+        left: 4%;
+    }
+    
+    .carousel-img {
+        width: 109px;
+        height: 134px;
+        margin: 10px;
+        cursor: pointer;
+    }
+    
+    .modal {
+        display: none;
+        position: fixed;
+        z-index: 1;
+        padding-top: 50px;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.9);
+    }
+    
+    .modal-content {
+        margin: auto;
+        display: block;
+        width: 80%;
+        max-width: 700px;
+        max-height: 80%;
+    }
+    
+    .close {
+        position: absolute;
+        top: 15px;
+        right: 35px;
+        color: #f1f1f1;
+        font-size: 40px;
+        font-weight: bold;
+        cursor: pointer;
+    }
+
+    .piscina {
+        width: 37%;
+        position: absolute;
+        left: 6%;
+        top: 49%;
+        border-radius: 34px;
+    }
+
+    #li {
+        color: #2D2E47;
+        font-family: 'aleo';
+        font-size: 20px;
+        padding: 1.5px;
+    }
+
+    .br1 {
+        position: relative;
+        left: 10px;
+    }
+
+    #h1 {
+        color: #2D2E47;
+        font-family: 'aleo';
+        font-size: 20px;
+        padding: 1.5px;
+        text-align: center;
+    }
+
+    .Instalação{
+            position: absolute;
+            left: 22%;
+            top: -5%;
+        }
+
+    .rodapé {
+        background-color: #069E6E;
+        width: 104%;
+        height: 164px;
+        left: -8px;
+        top: 769px;
+        position: absolute;
+    }
+
+    .cont {
+        position: absolute;
+        color: white;
+        font-size: 25px;
+        left: 41%;
+    }
+
+    .LogoEmail {
+        height: 32px;
+        position: absolute;
+        left: 5%;
+        top: 36%;
+    }
+
+    .gmail {
+        font-size: 20px;
+        position: absolute;
+        left: 14%;
+        top: 28%;
+        color: white;
+    }
+
+    .LogoTel {
+        height: 32px;
+        position: absolute;
+        left: 5%;
+        top: 56%;
+    }
+
+    .telefone {
+        font-size: 20px;
+        position: absolute;
+        left: 14%;
+        top: 49%;
+        color: white;
+    }
+
+    .LogoZap {
+        height: 30px;
+        position: absolute;
+        left: 5%;
+        top: 79%;
+    }
+
+    .zap {
+        font-size: 20px;
+        position: absolute;
+        left: 14%;
+        top: 71%;
+        color: white;
+    }
+
+}
