@@ -16,12 +16,12 @@
         top: -8px;
         left: -8px;
         position: absolute;
+        text-align: center;
     }
 
     .logo {
         position: relative;
         height: 100%;
-        left: 37.9%;
         top: 8%;
     }
 
@@ -85,13 +85,6 @@
         font-size: 25px;
         z-index: 1;
     }
-
-
-
-
-
-
-
 
     .rodapé {
         background-color: #069E6E;

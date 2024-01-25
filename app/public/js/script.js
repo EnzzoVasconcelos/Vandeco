@@ -11,7 +11,6 @@ function closeModal() {
     modal.style.display = 'none';
 }
 
-// Fechar modal ao clicar fora da imagem
 window.onclick = function(event) {
     var modal = document.getElementById('myModal');
     if (event.target == modal) {

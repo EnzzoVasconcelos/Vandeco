@@ -17,12 +17,12 @@
         top: -8px;
         left: -8px;
         position: absolute;
+        text-align: center;
     }
 
     .logo {
         position: relative;
         height: 100%;
-        left: 37.9%;
         top: 8%;
     }
     .rodapé {
