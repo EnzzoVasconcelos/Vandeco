@@ -1,4 +1,4 @@
-@media (max-width: 480px) {
+@media (max-width: 768px) {
 
     #body {
         background-color: #D9D9D9;
@@ -27,17 +27,17 @@
 
     .fundo {
         background-color: #f2f2f2;
-        height: 23%;
-        width: 80%;
+        height: 248px;
+        width: 100%;
         position: absolute;
-        left: 11%;
-        top: 19%;
+        left: 0%;
+        top: 154px;
     }
 
     .casaUm {
-        height: 17%;
-        left: 31.5%;
-        top: 15%;
+        height: 75%;
+        left: 24.5%;
+        top: -22px;
         position: absolute;
         border-radius: 10px;
     }
@@ -45,33 +45,33 @@
     .titulo {
         color: #2D2E47;
         position: absolute;
-        top: 33%;
-        left: 26%;
+        top: 169px;
+        left: 25%;
         font-size: 25px;
     }
 
     .fundo2 {
         background-color: #f2f2f2;
-        height: 29%;
-        width: 80%;
+        height: 248px;
+        width: 100%;
         position: absolute;
-        left: 11%;
-        top: 50%;
+        left: 0%;
+        top: 472px;
     }
 
     .casa2 {
-        height: 18%;
+        height: 59%;
         left: 18.5%;
-        top: 53%;
+        top: 28px;
         position: absolute;
         border-radius: 10px;
         z-index: 2;
     }
 
     .casa3 {
-        height: 18%;
+        height: 59%;
         left: 42.5%;
-        top: 46%;
+        top: -32px;
         position: absolute;
         border-radius: 10px;
         z-index: 1;
@@ -80,15 +80,15 @@
     .titulo2 {
         color: #2D2E47;
         position: absolute;
-        top: 71%;
-        left: 41%;
+        top: 176px;
+        left: 39%;
         font-size: 25px;
         z-index: 1;
     }
 
     .rodapé {
         background-color: #069E6E;
-        width: 104%;
+        width: 102%;
         height: 164px;
         left: -8px;
         top: 769px;
