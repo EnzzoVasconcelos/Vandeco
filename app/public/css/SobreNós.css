@@ -51,7 +51,7 @@
     #li {
         color: #2D2E47;
         font-family: 'aleo';
-        font-size: 20px;
+        font-size: 16px;
         padding: 1.5px;
     }
 
@@ -65,7 +65,7 @@
         width: 104%;
         height: 164px;
         left: -8px;
-        top: 90px;
+        top: 118px;
         position: relative;
     }
 
@@ -77,49 +77,48 @@
     }
 
     .LogoEmail {
-        height: 32px;
+        height: 28px;
         position: absolute;
         left: 5%;
         top: 36%;
     }
 
     .gmail {
-        font-size: 20px;
+        font-size: 16px;
         position: absolute;
-        left: 14%;
-        top: 28%;
+        left: 13%;
+        top: 32%;
         color: white;
     }
 
     .LogoTel {
-        height: 32px;
+        height: 28px;
         position: absolute;
         left: 5%;
         top: 56%;
     }
 
     .telefone {
-        font-size: 20px;
+        font-size: 16px;
         position: absolute;
-        left: 14%;
-        top: 49%;
+        left: 13%;
+        top: 52%;
         color: white;
     }
 
     .LogoZap {
-        height: 30px;
+        height: 28px;
         position: absolute;
         left: 5%;
         top: 79%;
     }
 
     .zap {
-        font-size: 20px;
+        font-size: 16px;
         position: absolute;
-        left: 14%;
-        top: 71%;
+        left: 13%;
+        top: 75%;
         color: white;
     }
-
 
 }
