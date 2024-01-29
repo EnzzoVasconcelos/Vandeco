@@ -20,9 +20,10 @@
     }
 
     .logo {
-        position: relative;
+        position: absolute;
         height: 100%;
         top: 8%;
+       left: 164px; 
     }
 
     .fundo {
@@ -36,7 +37,7 @@
 
     .casaUm {
         height: 75%;
-        left: 24.5%;
+        left: 111px;
         top: -22px;
         position: absolute;
         border-radius: 10px;
@@ -46,7 +47,7 @@
         color: #2D2E47;
         position: absolute;
         top: 169px;
-        left: 25%;
+        left: 112px;
         font-size: 25px;
     }
 
@@ -61,7 +62,7 @@
 
     .casa2 {
         height: 59%;
-        left: 18.5%;
+        left: 92px;
         top: 28px;
         position: absolute;
         border-radius: 10px;
@@ -70,7 +71,7 @@
 
     .casa3 {
         height: 59%;
-        left: 42.5%;
+        left: 190px;
         top: -32px;
         position: absolute;
         border-radius: 10px;

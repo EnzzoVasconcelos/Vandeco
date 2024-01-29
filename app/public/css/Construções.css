@@ -24,7 +24,7 @@
 
     .fundo {
         background-color: #f2f2f2;
-        height: 248px;
+        height: auto;
         width: 100%;
         position: relative;
         top: 0;
@@ -44,7 +44,7 @@
         display: flex;
         position: relative;
         top: -5px;
-        left: 0;
+        left: -2px;
     }
 
     .carousel-img {
@@ -52,7 +52,6 @@
         height: 134px;
         margin: 10px;
         cursor: pointer;
-        object-fit: cover;
     }
 
     .modal {
