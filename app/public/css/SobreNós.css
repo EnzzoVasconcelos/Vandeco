@@ -11,7 +11,7 @@
 
     .cabeçalho {
         background-color: #069E6E;
-        width: 104%;
+        width: 102%;
         height: 113px;
         top: -8px;
         left: -8px;
@@ -30,7 +30,7 @@
         border-left: 3px solid #2D2E47;
         border-right: 3px solid #2D2E47;
         position: relative;
-        top: 123px;
+        top: 109px;
         text-align: center;
         width: 100%;
         left: -4px;
@@ -57,16 +57,16 @@
 
     #lista {
         position: relative;
-        top: 117px;
+        top: 109px;
     }
 
     .rodapé {
         background-color: #069E6E;
-        width: 102%;
+        width: 104%;
         height: 164px;
         left: -8px;
-        top: 1216px;
-        position: absolute;
+        top: 90px;
+        position: relative;
     }
 
     .cont {
